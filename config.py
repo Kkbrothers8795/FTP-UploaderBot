@@ -29,6 +29,6 @@ ftp_path = '/hx.22web.org/htdocs/'
 # The files are temporarily downloaded after they are on the bot server. They are uploaded to another host through FTP.
 # Here we have to give FTP access to the bot.
 ftp_ip = 'ftpupload.net'
-ftp_username = 'rigrr_34653010'
-ftp_password = 'nrq0pgqv'
-ftp_domain = 'http:///hx.22web.org/'
+ftp_username = 'if0_35501023'
+ftp_password = 'ilIAIplvVwZU'
+ftp_domain = 'http://hx.free.nf/'
