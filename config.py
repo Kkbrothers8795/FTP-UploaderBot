@@ -24,7 +24,7 @@ dl_path = os.path.abspath(os.getcwd()) + '/'
 
 
 # The upload path where we give FTP access to the bot.
-ftp_path = '/hx.22web.org/htdocs/'
+ftp_path = '/htdocs/'
 
 # The files are temporarily downloaded after they are on the bot server. They are uploaded to another host through FTP.
 # Here we have to give FTP access to the bot.
