@@ -24,11 +24,11 @@ dl_path = os.path.abspath(os.getcwd()) + '/'
 
 
 # The upload path where we give FTP access to the bot.
-ftp_path = '/htdocs/'
+ftp_path = '/hxbots.rf.gd/htdocs/'
 
 # The files are temporarily downloaded after they are on the bot server. They are uploaded to another host through FTP.
 # Here we have to give FTP access to the bot.
 ftp_ip = 'ftpupload.net'
 ftp_username = 'if0_35501023'
 ftp_password = 'ilIAIplvVwZU'
-ftp_domain = 'http://hx.free.nf/'
+ftp_domain = 'http://hxbots.rf.gd/'
