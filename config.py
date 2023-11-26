@@ -24,11 +24,11 @@ dl_path = os.path.abspath(os.getcwd()) + '/'
 
 
 # The upload path where we give FTP access to the bot.
-ftp_path = '/hx.totalh.net/htdocs/'
+ftp_path = '/hx.22web.org/htdocs/'
 
 # The files are temporarily downloaded after they are on the bot server. They are uploaded to another host through FTP.
 # Here we have to give FTP access to the bot.
 ftp_ip = 'ftpupload.net'
 ftp_username = 'rigrr_34653010'
 ftp_password = 'nrq0pgqv'
-ftp_domain = 'http://hx.totalh.net/'
+ftp_domain = 'http:///hx.22web.org/'
